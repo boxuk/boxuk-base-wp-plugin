@@ -2,6 +2,7 @@
     "name": "boxuk/boxuk-base-wp-plugin",
     "homepage": "https://boxuk.com",
     "type": "wordpress-plugin",
+    "abandoned": true,
     "license": "GPL-2.0-or-later",
     "repositories": [
         {

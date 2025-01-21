@@ -1,6 +1,6 @@
-![Box UK Logo](https://www.boxuk.com/wp-content/themes/BoxUK/assets/images/boxuk-logo.png)
-
 # BoxUK WordPress Base Plugin
+
+> This project is now abandoned. If you're interested in taking it over, get in touch. For alternatives, we'd recommend looking at [WordPress' create block package](https://developer.wordpress.org/block-editor/reference-guides/packages/packages-create-block/). Though it differs from the functionality this packages provides, it's provided to support a more modern way of developing WordPress features. 
 
 A WordPress plugin that includes a number of things to help us work on WordPress projects.
 
